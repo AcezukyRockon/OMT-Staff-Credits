@@ -26,7 +26,8 @@ function createWebpage() {
 			"roles": [
 				"admin",
 				"sheeter",
-				"referee"
+				"referee",
+				"streamer"
 			]
 		},
 		{
@@ -37,26 +38,19 @@ function createWebpage() {
 			]
 		},
 		{
+			"username": "mishashto", "id": "", "country": "RU",
+			"roles": [
+				"admin",
+				"GFX"
+			]
+		},
+		{
 			"username": "YesImSatan", "id": "14373729", "country": "SK",
 			"roles": [
 				"referee",
+				"sheeter",
+				"playtester",
 				"commentator"
-			]
-		},
-		{
-			"username": "dahammer88", "id": "10733055", "country": "CA",
-			"roles": [
-				"referee",
-				"pooler",
-				"playtester"
-			]
-		},
-		{
-			"username": "TipanLogic", "id": "11720624", "country": "RU",
-			"roles": [
-				"streamer",
-				"referee",
-				"playtester"
 			]
 		},
 		{
@@ -65,110 +59,49 @@ function createWebpage() {
 				"pooler",
 				"referee",
 				"commentator",
-				"playtester"
-			]
-		},
-		{
-			"username": "- Elias -", "id": "12865368", "country": "PH",
-			"roles": [
-				"streamer",
-				"referee",
-				"playtester"
 			]
 		},
 		{
 			"username": "kirintili", "id": "9286008", "country": "ES",
 			"roles": [
 				"pooler",
+				"playtester",
 				"commentator"
-			]
-		},
-		{
-			"username": "xSweeet", "id": "14279904", "country": "GT",
-			"roles": [
-				"referee"
 			]
 		},
 		{
 			"username": "L3XiCbh", "id": "14309415", "country": "CA",
 			"roles": [
-				"streamer",
+				"playtester",
 				"commentator"
 			]
 		},
 		{
 			"username": "EL2G3", "id": "8616507", "country": "PH",
 			"roles": [
-				"commentator",
 				"playtester"
-			]
-		},
-		{
-			"username": "Geag", "id": "16052525", "country": "US",
-			"roles": [
-				"commentator",
-				"playtester"
-			]
-		},
-		{
-			"username": "_webis", "id": "19157442", "country": "PL",
-			"roles": [
-				"pooler",
-				"referee",
-				"commentator",
-				"playtester"
-			]
-		},
-		{
-			"username": "Juztan", "id": "14272451", "country": "US",
-			"roles": [
-				"referee",
-				"pooler",
-				"streamer",
-				"commentator"
-			]
-		},
-		{
-			"username": "easypeasy123", "id": "9946406", "country": "US",
-			"roles": [
-				"pooler",
-				"referee",
-				"sheeter"
-			]
-		},
-		{
-			"username": "willerkiller", "id": "13710647", "country": "US",
-			"roles": [
-				"commentator",
-				"referee"
-			]
-		},
-		{
-			"username": "cg505", "id": "11634481", "country": "US",
-			"roles": [
-				"referee"
 			]
 		},
 		{
 			"username": "Vincent A", "id": "11050632", "country": "ID",
 			"roles": [
-				"admin",
-				"pooler",
-				"sheeter",
-				"commentator"
+				"commentator",
+				"playtester"
 			]
 		},
 		{
 			"username": "GarciXD", "id": "13398045", "country": "CL",
 			"roles": [
-				"referee"
+				"referee",
+				"playtester",
+				"commentator",
+				"streamer"
 			]
 		},
 		{
 			"username": "MentalMoose", "id": "14262486", "country": "BE",
 			"roles": [
-				"commentator",
-				"playtester"
+				"commentator"
 			]
 		},
 		{
@@ -179,13 +112,6 @@ function createWebpage() {
 			]
 		},
 		{
-			"username": "Yhuan Debeste", "id": "18704162", "country": "PH",
-			"roles": [
-				"pooler",
-				"referee"
-			]
-		},
-		{
 			"username": "Potato9756", "id": "13205755", "country": "CA",
 			"roles": [
 				"referee",
@@ -193,65 +119,17 @@ function createWebpage() {
 			]
 		},
 		{
-			"username": "DewaYoGamer", "id": "11665488", "country": "ID",
-			"roles": [
-				"referee"
-			]
-		},
-		{
-			"username": "Barack", "id": "9402889", "country": "CL",
-			"roles": [
-				"playtester",
-				"referee"
-			]
-		},
-		{
 			"username": "hubbawubba", "id": "15910288", "country": "US",
 			"roles": [
-				"commentator",
+				"pooler",
 				"playtester"
 			]
 		},
 		{
 			"username": "Rekunan", "id": "8203119", "country": "US",
 			"roles": [
+				"sheeter",
 				"referee"
-			]
-		},
-		{
-			"username": "chels", "id": "13968504", "country": "CA",
-			"roles": [
-				"referee",
-				"playtester"
-			]
-		},
-		{
-			"username": "Jinsoul", "id": "3552505", "country": "US",
-			"roles": [
-				"playtester"
-			]
-		},
-		{
-			"username": "Jon Naismith", "id": "4863866", "country": "PL",
-			"roles": [
-				"pooler",
-				"commentator",
-				"playtester"
-			]
-		},
-		{
-			"username": "nebuwua", "id": "14729352", "country": "US",
-			"roles": [
-				"referee",
-				"GFX"
-			]
-		},
-		{
-			"username": "SakuyaMyAngel", "id": "12048072", "country": "VN",
-			"roles": [
-				"referee",
-				"pooler",
-				"playtester"
 			]
 		},
 		{
@@ -259,6 +137,13 @@ function createWebpage() {
 			"roles": [
 				"referee",
 				"commentator"
+			]
+		},
+		{
+			"username": "Screenshot07", "id": "20293186", "country": "US",
+			"roles": [
+				"referee",
+				"streamer"
 			]
 		}
 	]
