@@ -101,7 +101,8 @@ function createWebpage() {
 		{
 			"username": "MentalMoose", "id": "14262486", "country": "BE",
 			"roles": [
-				"commentator"
+				"commentator",
+				"playtester"
 			]
 		},
 		{
@@ -144,6 +145,13 @@ function createWebpage() {
 			"roles": [
 				"referee",
 				"streamer"
+			]
+		},
+		{
+			"username": "_Nisemono", "id": "11450856", "country": "US",
+			"roles": [
+				"pooler",
+				"playtester"
 			]
 		}
 	]
