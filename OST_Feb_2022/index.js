@@ -148,10 +148,16 @@ function createWebpage() {
 			]
 		},
 		{
-			"username": "_Nisemono", "id": "11450856", "country": "US",
+			"username": "_Nisemono", "id": "11450856", "country": "GB",
 			"roles": [
 				"pooler",
 				"playtester"
+			]
+		},
+		{
+			"username": "CardinalWolf", "id": "14995715", "country": "SK",
+			"roles": [
+				"pooler"
 			]
 		}
 	]
