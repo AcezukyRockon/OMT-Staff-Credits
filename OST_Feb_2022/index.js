@@ -159,6 +159,12 @@ function createWebpage() {
 			"roles": [
 				"pooler"
 			]
+		},
+		{
+			"username": "mikerex", "id": "3860334", "country": "AR",
+			"roles": [
+				"referee"
+			]
 		}
 	]
 	// YOU CAN MODIFY THE STUFF ABOVE
