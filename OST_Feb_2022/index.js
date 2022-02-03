@@ -40,7 +40,6 @@ function createWebpage() {
 		{
 			"username": "mishashto", "id": "", "country": "RU",
 			"roles": [
-				"admin",
 				"GFX"
 			]
 		},
