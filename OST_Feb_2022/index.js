@@ -18,7 +18,8 @@ function createWebpage() {
 			"username": "Orange_", "id": "14272323", "country": "US",
 			"roles": [
 				"host",
-				"admin"
+				"admin",
+				"GFX"
 			]
 		},
 		{
@@ -163,6 +164,19 @@ function createWebpage() {
 			"username": "mikerex", "id": "3860334", "country": "AR",
 			"roles": [
 				"referee"
+			]
+		},
+		{
+			"username": "Ngeowd", "id": "15868788", "country": "TW",
+			"roles": [
+				"pooler"
+			]
+		},
+		{
+			"username": "Cartoonknight", "id": "12834207", "country": "US",
+			"roles": [
+				"pooler",
+				"playtester"
 			]
 		}
 	]
