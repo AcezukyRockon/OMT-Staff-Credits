@@ -35,7 +35,8 @@ function createWebpage() {
 			"username": "GaryWombo", "id": "11076988", "country": "CA",
 			"roles": [
 				"admin",
-				"pooler"
+				"pooler",
+				"playtester"
 			]
 		},
 		{
@@ -177,6 +178,39 @@ function createWebpage() {
 			"roles": [
 				"pooler",
 				"playtester"
+			]
+		},
+		{
+			"username": "[Izayoii]", "id": "14791081", "country": "ES",
+			"roles": [
+				"referee",
+				"playtester"
+			]
+		},
+		{
+			"username": "Ozai", "id": "11796581", "country": "US",
+			"roles": [
+				"referee"
+			]
+		},
+		{
+			"username": "Joryan_inkling", "id": "8240995", "country": "CA",
+			"roles": [
+				"streamer",
+				"commentator"
+			]
+		},
+		{
+			"username": "BigPana", "id": "16910637", "country": "AR",
+			"roles": [
+				"referee",
+				"commentator"
+			]
+		},
+		{
+			"username": "FikriEka", "id": "4176856", "country": "ID",
+			"roles": [
+				"referee"
 			]
 		}
 	]
