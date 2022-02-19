@@ -87,7 +87,9 @@ function createWebpage() {
 			"username": "Vincent A", "id": "11050632", "country": "ID",
 			"roles": [
 				"commentator",
-				"playtester"
+				"playtester",
+				"sheeter",
+				"referee"
 			]
 		},
 		{
