@@ -197,7 +197,8 @@ function createWebpage() {
 			"username": "Joryan_inkling", "id": "8240995", "country": "CA",
 			"roles": [
 				"streamer",
-				"commentator"
+				"commentator",
+				"GFX"
 			]
 		},
 		{
