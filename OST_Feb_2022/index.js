@@ -215,6 +215,25 @@ function createWebpage() {
 			"roles": [
 				"referee"
 			]
+		},
+		{
+			"username": "cherry sweet", "id": "12079158", "country": "MY",
+			"roles": [
+				"commentator"
+			]
+		},
+		{
+			"username": "Ted", "id": "9717848", "country": "BG",
+			"roles": [
+				"referee"
+			]
+		},
+		{
+			"username": "Coppertine", "id": "7279762", "country": "AU",
+			"roles": [
+				"referee",
+				"streamer"
+			]
 		}
 	]
 	// YOU CAN MODIFY THE STUFF ABOVE
