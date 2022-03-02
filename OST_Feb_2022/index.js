@@ -225,7 +225,8 @@ function createWebpage() {
 		{
 			"username": "Ted", "id": "9717848", "country": "BG",
 			"roles": [
-				"referee"
+				"referee",
+				"streamer"
 			]
 		},
 		{
@@ -233,6 +234,12 @@ function createWebpage() {
 			"roles": [
 				"referee",
 				"streamer"
+			]
+		},
+		{
+			"username": "SnowbaII", "id": "13104075", "country": "GB",
+			"roles": [
+				"commentator"
 			]
 		}
 	]
