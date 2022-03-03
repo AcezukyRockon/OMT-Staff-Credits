@@ -225,8 +225,7 @@ function createWebpage() {
 		{
 			"username": "Ted", "id": "9717848", "country": "BG",
 			"roles": [
-				"referee",
-				"streamer"
+				"referee"
 			]
 		},
 		{
