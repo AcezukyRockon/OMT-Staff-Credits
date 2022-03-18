@@ -241,12 +241,6 @@ function createWebpage() {
 			]
 		},
 		{
-			"username": "Chou Tzuyoda", "id": "24190187", "country": "PH",
-			"roles": [
-				"Referee"
-			]
-		},
-		{
 			"username": "PsychedelicMush", "id": "12204220", "country": "UK",
 			"roles": [
 				"commentator"
