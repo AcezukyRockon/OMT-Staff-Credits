@@ -18,7 +18,7 @@ function createWebpage() {
 			"username": "Orange_", "id": "14272323", "country": "US",
 			"roles": [
 				"host",
-				"admin",
+				"streamer",
 				"GFX"
 			]
 		},
@@ -199,8 +199,7 @@ function createWebpage() {
 			"username": "Joryan_inkling", "id": "8240995", "country": "CA",
 			"roles": [
 				"streamer",
-				"commentator",
-				"GFX"
+				"commentator"
 			]
 		},
 		{
@@ -237,6 +236,18 @@ function createWebpage() {
 		},
 		{
 			"username": "SnowbaII", "id": "13104075", "country": "GB",
+			"roles": [
+				"commentator"
+			]
+		},
+		{
+			"username": "Chou Tzuyoda", "id": "24190187", "country": "PH",
+			"roles": [
+				"Referee"
+			]
+		},
+		{
+			"username": "PsychedelicMush", "id": "12204220", "country": "UK",
 			"roles": [
 				"commentator"
 			]
